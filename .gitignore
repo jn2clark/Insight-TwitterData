@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+TrainSaveModel_copy.py
+ProcessTweets_copy.py
