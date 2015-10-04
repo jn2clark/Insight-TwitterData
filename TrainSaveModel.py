@@ -61,9 +61,9 @@ if __name__ == '__main__':
 
 
     #where to save the model
-    save_dir='/Users/jesseclark/Documents/Python/Insight/TwitterSent/NYSF-USA/Temp/'    
+    save_dir=''    
     # where the data is
-    data_dir='/Users/jesseclark/Documents/Python/Insight/TwitterSent/NYSF-USA/Temp/'
+    data_dir=''
     # model save name
     base_name="USmodel"
 
